@@ -1,0 +1,1423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="relation" attr.type="string" for="edge" id="d1" />
+  <key attr.name="nacionality" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Quentin Tarantino">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Marisa Tomei">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Bruce Willis">
+      <data key="d0">Germany</data>
+    </node>
+    <node id="Salma Hayek">
+      <data key="d0">Mexico</data>
+    </node>
+    <node id="Uma Thurman">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Samuel L. Jackson">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Michael Keaton">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Steve Buscemi">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Christopher Walken">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Mary Elizabeth Winstead">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Brad Pitt">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Christoph Waltz">
+      <data key="d0">Austria</data>
+    </node>
+    <node id="Michael Fassbender">
+      <data key="d0">Germany</data>
+    </node>
+    <node id="Diane Kruger">
+      <data key="d0">Germany</data>
+    </node>
+    <node id="Jamie Foxx">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Leonardo DiCaprio">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Jennifer Jason Leigh">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Channing Tatum">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Josh Brolin">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Nicolas Cage">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Margot Robbie">
+      <data key="d0">Australia</data>
+    </node>
+    <node id="Al Pacino">
+      <data key="d0">USA</data>
+    </node>
+    <node id="George Clooney">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Juliette Lewis">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Kelly Preston">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Adam Sandler">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Jodie Foster">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Steven Spielberg">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Jackie Chan">
+      <data key="d0">Hong Kong</data>
+    </node>
+    <node id="Sylvester Stallone">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Sammo Hung">
+      <data key="d0">China</data>
+    </node>
+    <node id="Michelle Yeoh">
+      <data key="d0">Malaysia</data>
+    </node>
+    <node id="Halle Berry">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Tim Robbins">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Jennifer Aniston">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Ben Affleck">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Stanley Tucci">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Wes Anderson">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Jeff Bridges">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Matthew McConaughey">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Gina Gershon">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Donald Trump">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Sharon Stone">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Clint Eastwood">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Mel Gibson">
+      <data key="d0">USA</data>
+    </node>
+    <node id="Edward Norton">
+      <data key="d0">USA</data>
+    </node>
+    <edge source="Quentin Tarantino" target="Marisa Tomei">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Bruce Willis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Quentin Tarantino">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Salma Hayek">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Uma Thurman">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Samuel L. Jackson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Michael Keaton">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Steve Buscemi">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Christopher Walken">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Mary Elizabeth Winstead">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Brad Pitt">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Christoph Waltz">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Michael Fassbender">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Diane Kruger">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jamie Foxx">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Leonardo DiCaprio">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jennifer Jason Leigh">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Channing Tatum">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Josh Brolin">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Nicolas Cage">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Margot Robbie">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Al Pacino">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jodie Foster">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jackie Chan">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Sammo Hung">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Wes Anderson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Quentin Tarantino" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Marisa Tomei">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Bruce Willis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Salma Hayek">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Michael Keaton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Uma Thurman">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Steve Buscemi">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Samuel L. Jackson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Marisa Tomei" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Bruce Willis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Salma Hayek">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Steve Buscemi">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Samuel L. Jackson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Uma Thurman">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Mary Elizabeth Winstead">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Wes Anderson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Jackie Chan">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Sammo Hung">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Bruce Willis" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Salma Hayek">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Steve Buscemi">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Christoph Waltz">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Samuel L. Jackson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Salma Hayek" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Uma Thurman">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Samuel L. Jackson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Steve Buscemi">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Jodie Foster">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Michael Keaton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Uma Thurman" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Samuel L. Jackson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Michael Keaton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Steve Buscemi">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Christoph Waltz">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Michael Fassbender">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Diane Kruger">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Jennifer Jason Leigh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Jackie Chan">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Sammo Hung">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Samuel L. Jackson" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Michael Keaton">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Keaton" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Steve Buscemi">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Jennifer Jason Leigh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steve Buscemi" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Christopher Walken">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Clint Eastwood">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christopher Walken" target="Steven Spielberg">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Mary Elizabeth Winstead">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Jennifer Jason Leigh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mary Elizabeth Winstead" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Brad Pitt">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Diane Kruger">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Jackie Chan">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Michael Fassbender">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Christoph Waltz">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Jodie Foster">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Brad Pitt" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Christoph Waltz">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Jodie Foster">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Michael Fassbender">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Diane Kruger">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Wes Anderson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Christoph Waltz" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Michael Fassbender">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Diane Kruger">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Jamie Foxx">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michael Fassbender" target="Mel Gibson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Diane Kruger" target="Diane Kruger">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Diane Kruger" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Jamie Foxx">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jamie Foxx" target="Mel Gibson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Leonardo DiCaprio">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Clint Eastwood">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Leonardo DiCaprio" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Jennifer Jason Leigh">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Jason Leigh" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Channing Tatum">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Josh Brolin">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Channing Tatum" target="Steven Spielberg">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Josh Brolin" target="Josh Brolin">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Josh Brolin" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Josh Brolin" target="Nicolas Cage">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Josh Brolin" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Josh Brolin" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Nicolas Cage" target="Nicolas Cage">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Nicolas Cage" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Nicolas Cage" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Nicolas Cage" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Nicolas Cage" target="Jodie Foster">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Margot Robbie" target="Margot Robbie">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Margot Robbie" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Margot Robbie" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Margot Robbie" target="Al Pacino">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Al Pacino">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="George Clooney">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Jackie Chan">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Al Pacino" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="George Clooney">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Wes Anderson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Jodie Foster">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="George Clooney" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Juliette Lewis">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Juliette Lewis" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Kelly Preston" target="Kelly Preston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Kelly Preston" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Kelly Preston" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Kelly Preston" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Kelly Preston" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Adam Sandler" target="Adam Sandler">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Adam Sandler" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Adam Sandler" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Adam Sandler" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Adam Sandler" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Jodie Foster">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Mel Gibson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Steven Spielberg">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jodie Foster" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Steven Spielberg">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Stanley Tucci">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Matthew McConaughey">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Sylvester Stallone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Steven Spielberg" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jackie Chan" target="Jackie Chan">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jackie Chan" target="Sammo Hung">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jackie Chan" target="Sylvester Stallone">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jackie Chan" target="Michelle Yeoh">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Jackie Chan" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Sylvester Stallone">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Sammo Hung">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sylvester Stallone" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sammo Hung" target="Sammo Hung">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Sammo Hung" target="Michelle Yeoh">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Michelle Yeoh" target="Michelle Yeoh">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michelle Yeoh" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Michelle Yeoh" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Halle Berry">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Tim Robbins">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Stanley Tucci">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Halle Berry" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Tim Robbins" target="Tim Robbins">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Tim Robbins" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Tim Robbins" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Tim Robbins" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Tim Robbins" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Aniston" target="Jennifer Aniston">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jennifer Aniston" target="Ben Affleck">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Ben Affleck">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Ben Affleck" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Stanley Tucci" target="Stanley Tucci">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Wes Anderson" target="Wes Anderson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Wes Anderson" target="Edward Norton">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Wes Anderson" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Wes Anderson" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Wes Anderson" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jeff Bridges" target="Jeff Bridges">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jeff Bridges" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jeff Bridges" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jeff Bridges" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Jeff Bridges" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Matthew McConaughey" target="Matthew McConaughey">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Matthew McConaughey" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Matthew McConaughey" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Gina Gershon" target="Gina Gershon">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Donald Trump" target="Donald Trump">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Donald Trump" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sharon Stone" target="Sharon Stone">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sharon Stone" target="Clint Eastwood">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sharon Stone" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Sharon Stone" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Clint Eastwood" target="Clint Eastwood">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Clint Eastwood" target="Mel Gibson">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Clint Eastwood" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Mel Gibson" target="Mel Gibson">
+      <data key="d1">director-actor</data>
+    </edge>
+    <edge source="Mel Gibson" target="Edward Norton">
+      <data key="d1">actor-actor</data>
+    </edge>
+    <edge source="Edward Norton" target="Edward Norton">
+      <data key="d1">director-actor</data>
+    </edge>
+  </graph>
+</graphml>
