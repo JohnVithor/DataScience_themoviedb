@@ -11,6 +11,8 @@ Coletamos dados também sobre alguns dos atores que trabalharam em Pulp Fiction,
 
 Criamos algumas visualizações desses dados utilizando o Gephi e elas, assim como os arquivos .graphml gerados, estão disponíveis aqui.
 
+Os dados dos .graphml foram levemente alterados no gephi antes de gerar as imagens para corrigir algumas nacionalidades que não foram devidamente padronizadas, afinal são muitos casos a considerar.
+
 ## Autores
 O projeto é feito em grupo. Os integrantes são:
 - Josivan Medeiros da Silva Gois
